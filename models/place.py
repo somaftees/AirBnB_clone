@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""place class tests"""
+"""place class medel"""
 from models.base_model import BaseModel
 
 
