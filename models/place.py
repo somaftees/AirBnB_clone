@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""place class"""
+"""place class tests"""
 from models.base_model import BaseModel
 
 
