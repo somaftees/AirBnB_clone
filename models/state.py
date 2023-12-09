@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""State class for test"""
+"""State class for model"""
 from models.base_model import BaseModel
 
 
